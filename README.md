@@ -1,4 +1,5 @@
 ## Hi there 👋
+## You can call me Naathan and I am on my own way to becoming a game dev
 
 <!--
 **Naathan404/Naathan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
