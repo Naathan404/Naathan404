@@ -1,5 +1,5 @@
 # Hello World 👋
-🌈 You can call me Naathan 🌈.
+🌈 You can call me Naathan 🌈. <br>
 🎯 I am currently learning Unity and stuff <br>
 📬 Contact me: 
 - 📮 Email: nathannguyen6002@gmail.com
