@@ -1,7 +1,7 @@
 # Hello World 👋
 🌈 You can call me Naathan 🌈.
 🎯 I am currently learning Unity and stuff
-# 📬 Contact me: 
+📬 Contact me: 
 - 📮 Email: nathannguyen6002@gmail.com
 - 📲 Facebook: https://www.facebook.com/nguyennn0404/
 - 🕹️ Itch.io: https://naathan404.itch.io/
