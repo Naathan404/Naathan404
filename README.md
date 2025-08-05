@@ -1,5 +1,10 @@
-## Hi there 👋
-## You can call me Naathan and I am on my own way to becoming a game dev
+# Hi there 👋
+# 🌈 You can call me Naathan 🌈.
+# 🎯 I am currently learning Unity and stuff
+## 📬 Contact me: 
+- 📮 Email: nathannguyen6002@gmail.com
+- 📲 Facebook: https://www.facebook.com/nguyennn0404/
+- 🕹️ Itch.io: https://naathan404.itch.io/
 
 <!--
 **Naathan404/Naathan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
