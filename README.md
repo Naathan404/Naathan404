@@ -1,6 +1,6 @@
 # Hello World 👋
 🌈 You can call me Naathan 🌈.
-🎯 I am currently learning Unity and stuff
+🎯 I am currently learning Unity and stuff <br>
 📬 Contact me: 
 - 📮 Email: nathannguyen6002@gmail.com
 - 📲 Facebook: https://www.facebook.com/nguyennn0404/
