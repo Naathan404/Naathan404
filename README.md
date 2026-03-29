@@ -1,10 +1,13 @@
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwcmtpZmRua3BxNWdrZXJ5d2JuNDk5NmllbGZlZXgyOTBrdHlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?fbclid=IwY2xjawQ2JW1leHRuA2FlbQIxMABicmlkETFGRlY0bkRWOHgwWEJLTDBCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjB1U2bRu_M2DXhWZnxv1jml3O4xKArbLqD3husNkeBMPuV82W1gvbcgnoxe_aem_8lGNioLgLhBx0_cpiL8ErQ" />
   <br>
   <i>
     <b>"Code, Coffee and Game Dev Dream"</b>
   </i>
+</p>
+<p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwcmtpZmRua3BxNWdrZXJ5d2JuNDk5NmllbGZlZXgyOTBrdHlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" />
 </p>
 
 ---
