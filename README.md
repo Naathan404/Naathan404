@@ -6,7 +6,7 @@
     <b>"Code, Coffee and Game Dev Dream"</b>
   </i>
 </p>
-<p>
+<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwcmtpZmRua3BxNWdrZXJ5d2JuNDk5NmllbGZlZXgyOTBrdHlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" />
 </p>
 
