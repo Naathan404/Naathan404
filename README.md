@@ -65,11 +65,16 @@
 
 ---
 ### 🎮 My Favourite Games
-
 <p align="center">
     <img src="https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Terraria_image500w.jpg" width="20%">
-    <img src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/309441225_198908242504462_7211029735433698297_n.png?_nc_cat=108&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeH0GHa8GydUxjlkSNRM7S2LO2cfwDHTTbo7Zx_AMdNNug-JWNS21x-9etE_-a0VVKaehiA_SOLbTtcOpionXoUH&_nc_ohc=nbpRXMJT6MQQ7kNvwFr35sP&_nc_oc=AdqQnmnv40UTTARvWXrmON3Ph9xHpIodO333cmJv_H5wKN9ahA5T42MA8znjzccV_Ts&_nc_zt=23&_nc_ht=scontent.fsgn19-1.fna&_nc_gid=pm-MlIPUTDVdOoQGpYpJUw&_nc_ss=7a32e&oh=00_AfxGJfWPsCmFrWPgMSyzb3Q2b1FAW4Hh97V5e-cpLJoDpg&oe=69CF35C0" width="20%">
-<img src="https://e.snmc.io/lk/gv/x/f91334a157189faa87901fe1d655de6a/7656494" width="20%">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1754692865" width="34.85%">
+    <img src="https://e.snmc.io/lk/gv/x/f91334a157189faa87901fe1d655de6a/7656494" width="20%">
+</p>
+<p align="center">
+<p align="center">
+    <img src="https://m.media-amazon.com/images/I/71KiUDy6ytL._AC_SX679_.jpg" width="20%">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3kRJHfdE5771XyQ5JhKdea1tGDdctJNOvV7t2aUG4Q&s=10" width="20%">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg" width="20%">
 </p>
 <p align="center">
 🌈☁️🌈 ╰(*°▽°*)╯ ☁️🌈☁️ (＠⌒ー⌒＠)ノ🌈☁️🌈 (づ￣ 3￣)づ ☁️🌈☁️
